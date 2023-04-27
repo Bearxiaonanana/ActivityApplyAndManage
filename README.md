@@ -1,1 +1,1 @@
-# ActivityApplyAndManage
+# 校园活动报名&管理系统
